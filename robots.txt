@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hemeouse.github.io/hemeouse.txt.gz
+Sitemap: https://hemeouse.github.io/app/hemeouse.txt.gz
+Sitemap: https://hemeouse.github.io/assets/hemeouse.txt.gz
+Sitemap: https://hemeouse.github.io/css/hemeouse.txt.gz
+Sitemap: https://hemeouse.github.io/includes/hemeouse.txt.gz
+Sitemap: https://hemeouse.github.io/item/hemeouse.txt.gz
+Sitemap: https://hemeouse.github.io/src/hemeouse.txt.gz
